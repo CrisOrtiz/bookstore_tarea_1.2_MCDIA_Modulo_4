@@ -1,13 +1,51 @@
-***Grupo Módulo 4 - DATA MANAGEMENT AND BUSINESS INTELLIGENCE - MCDIA - SOE UAGRM***
+# Módulo 4 - DATA MANAGEMENT AND BUSINESS INTELLIGENCE
+**MCDIA - SOE UAGRM**
 
-Integrantes:
+### 👥 Integrantes del grupo:
 - Oliver Camacho Velasco
 - Griselda Merino Herbas
 - Eberth Canaviri Calle
 - Cristhian Ortiz Mercado
 
-Boosktore Diagram:
+---
+
+## 🗺️ Diagrama de la Base de Datos Bookstore
+
 <img width="1000" height="550" alt="Bookstore_diagram" src="https://github.com/user-attachments/assets/402c1cc9-ff19-4af0-8437-18de0a7f0402" />
 
+---
+
+## 🛠️ Requisitos Previos
+
+Antes de empezar, asegúrate de tener instalado:
+* **Visual Studio**.
+* **SQL Server**.
+
+---
+
+## 🚀 Guía de Instalación y Ejecución Local
+
+### 1. Clonar el repositorio
+Abre tu terminal y ejecuta:
+```bash
+git clone [https://github.com/CrisOrtiz/bookstore_tarea_1.2_MCDIA_Modulo_4.git](https://github.com/CrisOrtiz/bookstore_tarea_1.2_MCDIA_Modulo_4.git)
+cd bookstore_tarea_1.2_MCDIA_Modulo_4 
+```
+### 2. Abrir el proyecto
+- Abre Visual Studio.
+- Ve al menú superior y selecciona Archivo > Abrir > Proyecto o solución... (o haz doble clic sobre el archivo .sln / .slnx dentro de la carpeta clonada).
+
+### 3. Compilar la solución
+- En el menú superior, selecciona Compilar > Compilar solución (o presiona la combinación de teclas Ctrl + Mayús + B).
+- Verifica en la ventana Salida (en la parte inferior) que el proceso finalice con Compilación: 1 correctos, 0 errores.
+
+### 4. Publicar la base de datos
+- Ve al panel del Explorador de soluciones (habitualmente a la derecha).
+- Haz clic derecho sobre el proyecto de base de datos y selecciona la opción Publicar....
+-En la ventana emergente, haz clic en el botón Editar... (debajo de Conexión a base de datos de destino).
+- Selecciona o escribe el nombre de tu servidor local de SQL Server. 💡 Puedes saber cual es tu local server name ejecutando en terminal: ```hostname```
+- En el campo Nombre de la base de datos, escribe: Bookstore.
+- Haz clic en Aceptar para cerrar la ventana de conexión.
+- Haz clic en el botón Publicar (en la esquina inferior derecha).
 
 <img width="1000" height="513" alt="image" src="https://github.com/user-attachments/assets/8716c3b6-3694-4dc8-b5b9-bef8f170e756" />
