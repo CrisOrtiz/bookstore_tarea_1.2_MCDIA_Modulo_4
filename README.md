@@ -1,7 +1,7 @@
-# GRUPO 2
 # Módulo 4 - DATA MANAGEMENT AND BUSINESS INTELLIGENCE
 **MCDIA - SOE UAGRM**
 
+## GRUPO 2
 ### Integrantes del grupo:
 - Oliver Camacho Velasco
 - Griselda Merino Herbas
