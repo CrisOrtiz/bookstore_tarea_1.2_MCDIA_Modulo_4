@@ -48,4 +48,4 @@ cd bookstore_tarea_1.2_MCDIA_Modulo_4
 - Haz clic en Aceptar para cerrar la ventana de conexión.
 - Haz clic en el botón Publicar (en la esquina inferior derecha).
 
-<img width="1000" height="513" alt="image" src="https://github.com/user-attachments/assets/8716c3b6-3694-4dc8-b5b9-bef8f170e756" />
+<img width="1000" height="430" alt="image" src="https://github.com/user-attachments/assets/8716c3b6-3694-4dc8-b5b9-bef8f170e756" />
