@@ -1,7 +1,7 @@
 # Módulo 4 - DATA MANAGEMENT AND BUSINESS INTELLIGENCE
 **MCDIA - SOE UAGRM**
 
-### 👥 Integrantes del grupo:
+### Integrantes del grupo:
 - Oliver Camacho Velasco
 - Griselda Merino Herbas
 - Eberth Canaviri Calle
@@ -9,13 +9,13 @@
 
 ---
 
-## 🗺️ Diagrama de la Base de Datos Bookstore
+## Diagrama de la Base de Datos Bookstore
 
 <img width="1000" height="550" alt="Bookstore_diagram" src="https://github.com/user-attachments/assets/402c1cc9-ff19-4af0-8437-18de0a7f0402" />
 
 ---
 
-## 🛠️ Requisitos Previos
+## Requisitos Previos
 
 Antes de empezar, asegúrate de tener instalado:
 * **Visual Studio**.
@@ -23,7 +23,7 @@ Antes de empezar, asegúrate de tener instalado:
 
 ---
 
-## 🚀 Guía de Instalación y Ejecución Local
+## Guía de Instalación y Ejecución Local
 
 ### 1. Clonar el repositorio
 Abre tu terminal y ejecuta:
