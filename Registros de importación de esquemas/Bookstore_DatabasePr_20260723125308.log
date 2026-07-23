@@ -1,0 +1,90 @@
+22/07/2026 20:53:08	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'Bookstore_DatabaseProject_Tarea1.2' del equipo 'CRISPC' por el usuario 'CrisPC'.
+22/07/2026 20:53:08	Se inició la importación del esquema de la base de datos.
+22/07/2026 20:53:16	Recopilando credenciales de la base de datos
+22/07/2026 20:53:16	Recopilando opciones de base de datos
+22/07/2026 20:53:16	Recopilando la opción de configuración de ámbito de la base de datos genérica
+22/07/2026 20:53:17	Recopilando usuarios
+22/07/2026 20:53:17	Recopilando roles
+22/07/2026 20:53:17	Recopilando roles de aplicación
+22/07/2026 20:53:17	Recopilando pertenencias a roles
+22/07/2026 20:53:17	Recopilando grupos de archivos
+22/07/2026 20:53:17	Recopilando catálogos de texto completo
+22/07/2026 20:53:17	Recopilando ensamblados
+22/07/2026 20:53:17	Recopilando certificados
+22/07/2026 20:53:17	Recopilando claves asimétricas
+22/07/2026 20:53:17	Recopilando claves simétricas
+22/07/2026 20:53:17	Recopilando claves simétricas cifradas
+22/07/2026 20:53:17	Recopilando esquemas
+22/07/2026 20:53:17	Recopilando colecciones de esquemas XML
+22/07/2026 20:53:17	Recopilando tipos de datos definidos por el usuario
+22/07/2026 20:53:17	Recopilando tipos definidos por el usuario
+22/07/2026 20:53:17	Recopilando tipos de tabla
+22/07/2026 20:53:17	Recopilando claves únicas para tipos de tabla
+22/07/2026 20:53:17	Recopilando claves principales para tipos de tabla
+22/07/2026 20:53:17	Recopilando índices para tipos de tablas
+22/07/2026 20:53:17	Recopilando restricciones CHECK para tipos de tabla
+22/07/2026 20:53:17	Recopilando restricciones DEFAULT para tipos de tabla
+22/07/2026 20:53:17	Recopilando funciones de partición
+22/07/2026 20:53:17	Recopilando esquemas de partición
+22/07/2026 20:53:17	Recopilando funciones
+22/07/2026 20:53:17	Recopilando funciones cifradas
+22/07/2026 20:53:17	Recopilando agregados
+22/07/2026 20:53:17	Recopilando procedimientos
+22/07/2026 20:53:18	Recopilando procedimientos cifrados
+22/07/2026 20:53:18	Recopilando tablas
+22/07/2026 20:53:19	Recopilando claves principales
+22/07/2026 20:53:19	Recopilando restricciones UNIQUE
+22/07/2026 20:53:19	Recopilando claves externas
+22/07/2026 20:53:19	Recopilando restricciones DEFAULT
+22/07/2026 20:53:19	Recopilando restricciones CHECK
+22/07/2026 20:53:19	Recopilando vistas
+22/07/2026 20:53:19	Recopilando vistas cifradas
+22/07/2026 20:53:19	Recopilando índices
+22/07/2026 20:53:19	Recopilando estadísticas
+22/07/2026 20:53:19	Recopilando listas de palabras irrelevantes de índices de texto completo
+22/07/2026 20:53:19	Recopilando listas de propiedades de búsqueda
+22/07/2026 20:53:19	Recopilando propiedades de búsqueda
+22/07/2026 20:53:19	Recopilando índices de texto completo
+22/07/2026 20:53:20	Recopilando índices de almacenamiento de columnas
+22/07/2026 20:53:20	Recopilando índices espaciales
+22/07/2026 20:53:20	Recopilando índices XML
+22/07/2026 20:53:20	Recolección de índices JSON
+22/07/2026 20:53:20	Recopilando índices XML selectivos
+22/07/2026 20:53:20	Recopilando desencadenadores cifrados
+22/07/2026 20:53:20	Recopilando desencadenadores
+22/07/2026 20:53:20	Recopilando DDL triggers cifrados y de CLR
+22/07/2026 20:53:20	Recopilando DDL triggers
+22/07/2026 20:53:20	Creación de la restricción perimetral en curso
+22/07/2026 20:53:20	Recopilando sinónimos
+22/07/2026 20:53:20	Recopilando valores predeterminados
+22/07/2026 20:53:20	Recopilando enlaces UDDT de restricción de datos
+22/07/2026 20:53:20	Recopilando reglas
+22/07/2026 20:53:20	Recopilando enlaces UDDT de restricción de datos
+22/07/2026 20:53:20	Recopilando tipos de mensaje
+22/07/2026 20:53:20	Recopilando colas
+22/07/2026 20:53:20	Recopilando contratos
+22/07/2026 20:53:20	Recopilando servicios
+22/07/2026 20:53:20	Recopilando notificaciones de eventos
+22/07/2026 20:53:20	Recopilando enlaces de servicio remoto
+22/07/2026 20:53:20	Recopilando prioridades de Broker
+22/07/2026 20:53:20	Recopilando firmas
+22/07/2026 20:53:20	Recopilando opciones de compresión
+22/07/2026 20:53:20	Recopilando tipos de secuencia
+22/07/2026 20:53:20	Recopilando directivas de seguridad
+22/07/2026 20:53:20	Recopilar claves de cifrado de columna
+22/07/2026 20:53:20	Recopilando claves maestras de columna
+22/07/2026 20:53:20	Recopilando orígenes de datos externos
+22/07/2026 20:53:20	Recopilando formatos de archivo externos
+22/07/2026 20:53:20	Recopilando modelos externos
+22/07/2026 20:53:20	Recopilando tablas externas
+22/07/2026 20:53:20	Recopilando opciones de compresión de índice XML
+22/07/2026 20:53:20	Recopilando propiedades extendidas
+22/07/2026 20:53:20	Recopilando ensamblados
+22/07/2026 20:53:20	Recopilando credenciales
+22/07/2026 20:53:20	Recopilando inicios de sesión
+22/07/2026 20:53:20	Recopilando auditorías de servidor
+22/07/2026 20:53:22	Buscando elementos duplicados en el proyecto
+22/07/2026 20:53:22	Ha finalizado el procesamiento de los elementos duplicados
+22/07/2026 20:53:23	Finalizó la importación de la base de datos.
+22/07/2026 20:53:23	Se guardó un resumen de la importación en la siguiente ubicación: B:\Cris_Docs\POST GRADO\School of Engineering de la UAGRM\MODULO 4 - DATA MANAGEMENT AND BUSINESS INTELLIGENCE\Universidad\BikeStore\Bookstore_DatabaseProject_Tarea1.2\Registros de importación de esquemas\Bookstore_DatabasePr_20260723125308.log
+22/07/2026 20:53:23	Haga clic en Finalizar para continuar...
