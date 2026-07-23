@@ -1,4 +1,4 @@
-***Grupo Módulo 4 - DATA MANAGEMENT AND BUSINESS INTELLIGENCE - MCDIA***
+***Grupo Módulo 4 - DATA MANAGEMENT AND BUSINESS INTELLIGENCE - MCDIA - SOE UAGRM***
 
 Integrantes:
 - Oliver Camacho Velasco
